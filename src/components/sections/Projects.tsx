@@ -24,9 +24,9 @@ export const Projects: React.FC = () => {
   const baseItemsCount = totalItems / 2;  // 8
 
   // Calcula os frames de animação ("Sanfona") automaticamente com base na quantidade
-  const xFrames = [];
-  const timesFrames = [];
-  const easesFrames = [];
+  const xFrames: string[] = [];
+  const timesFrames: number[] = [];
+  const easesFrames: any[] = [];
 
   for (let i = 0; i <= baseItemsCount; i++) {
     xFrames.push(`-${(i / totalItems) * 100}%`);
