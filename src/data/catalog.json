@@ -1,0 +1,358 @@
+{
+  "banco-quest-wood": {
+    "slug": "banco-quest-wood",
+    "name": "Banco Quest Wood",
+    "category": "bancos",
+    "description": "Encontre bancos de espera em ferro com assento e encosto perfurados, resistente a chuva. Confira nosso desenho próprio e garanta qualidade e durabilidade.",
+    "url": "https://urbomob.com.br/banco-quest-wood",
+    "images": [
+      "/images/products/bancos/banco-quest-wood/foto1.png",
+      "/images/products/bancos/banco-quest-wood/foto2.png",
+      "/images/products/bancos/banco-quest-wood/foto3.png",
+      "/images/products/bancos/banco-quest-wood/medidas.png"
+    ]
+  },
+  "banco-quest": {
+    "slug": "banco-quest",
+    "name": "Banco Quest",
+    "category": "bancos",
+    "description": "Encontre bancos de espera em ferro com assento e encosto perfurados, resistente a chuva. Confira nosso desenho próprio e garanta qualidade e durabilidade.",
+    "url": "https://urbomob.com.br/banco-quest",
+    "images": [
+      "/images/products/bancos/banco-quest/foto1.png",
+      "/images/products/bancos/banco-quest/foto2.png",
+      "/images/products/bancos/banco-quest/foto3.png",
+      "/images/products/bancos/banco-quest/foto4.jpg",
+      "/images/products/bancos/banco-quest/medidas.png"
+    ]
+  },
+  "banco-quest-low": {
+    "slug": "banco-quest-low",
+    "name": "Banco Quest Low",
+    "category": "bancos",
+    "description": "Tenha um banco resistente ao tempo para sua área externa. Com galvanização e pintura eletrostática, esse banco possui um desenho único, além de ser leve e prático. Confira agora!",
+    "url": "https://urbomob.com.br/banco-quest-low",
+    "images": [
+      "/images/products/bancos/banco-quest-low/foto1.png",
+      "/images/products/bancos/banco-quest-low/foto2.png",
+      "/images/products/bancos/banco-quest-low/foto3.png",
+      "/images/products/bancos/banco-quest-low/foto4.png",
+      "/images/products/bancos/banco-quest-low/medidas.png"
+    ]
+  },
+  "banco-nexo-wood": {
+    "slug": "banco-nexo-wood",
+    "name": "Banco Nexo Wood",
+    "category": "bancos",
+    "description": "Encontre bancos de espera em ferro com assento e encosto perfurados, resistente a chuva. Confira nosso desenho próprio e garanta qualidade e durabilidade.",
+    "url": "https://urbomob.com.br/banco-nexo-wood",
+    "images": [
+      "/images/products/bancos/banco-nexo-wood/foto1.png",
+      "/images/products/bancos/banco-nexo-wood/foto2.png",
+      "/images/products/bancos/banco-nexo-wood/foto3.png",
+      "/images/products/bancos/banco-nexo-wood/foto4.png",
+      "/images/products/bancos/banco-nexo-wood/medidas.png"
+    ]
+  },
+  "banco-nexo": {
+    "slug": "banco-nexo",
+    "name": "Banco Nexo",
+    "category": "bancos",
+    "description": "Encontre bancos de espera em ferro com assento e encosto perfurados, resistente a chuva. Confira nosso desenho próprio e garanta qualidade e durabilidade.",
+    "url": "https://urbomob.com.br/banco-nexo",
+    "images": [
+      "/images/products/bancos/banco-nexo/foto1.png",
+      "/images/products/bancos/banco-nexo/foto2.png",
+      "/images/products/bancos/banco-nexo/foto3.png",
+      "/images/products/bancos/banco-nexo/medidas.png"
+    ]
+  },
+  "banco-nexo-low": {
+    "slug": "banco-nexo-low",
+    "name": "Banco Nexo Low",
+    "category": "bancos",
+    "description": "Encontre bancos de espera em ferro com assento e encosto perfurados, resistente a chuva. Confira nosso desenho próprio e garanta qualidade e durabilidade.",
+    "url": "https://urbomob.com.br/banco-nexo-low",
+    "images": [
+      "/images/products/bancos/banco-nexo-low/foto1.png",
+      "/images/products/bancos/banco-nexo-low/foto2.png",
+      "/images/products/bancos/banco-nexo-low/foto3.png",
+      "/images/products/bancos/banco-nexo-low/medidas.png"
+    ]
+  },
+  "banco-flow-r": {
+    "slug": "banco-flow-r",
+    "name": "Banco Flow R",
+    "category": "bancos",
+    "description": "Encontre o banco perfeito para jardins, ambientes externos e internos. Feito em aço com galvanização e pintura eletrostática para maior durabilidade. Confira nossa variedade de modelos.",
+    "url": "https://urbomob.com.br/banco-flow-r",
+    "images": [
+      "/images/products/bancos/banco-flow-r/foto1.png",
+      "/images/products/bancos/banco-flow-r/foto2.png",
+      "/images/products/bancos/banco-flow-r/foto3.png",
+      "/images/products/bancos/banco-flow-r/foto4.png",
+      "/images/products/bancos/banco-flow-r/medidas.png"
+    ],
+    "bottomImage": "/images/products/bancos/banco-flow-r/embaixo.png"
+  },
+  "banco-flow-c": {
+    "slug": "banco-flow-c",
+    "name": "Banco Flow C",
+    "category": "bancos",
+    "description": "Encontre o banco perfeito para jardins, ambientes externos e internos. Feito em aço com galvanização e pintura eletrostática para maior durabilidade. Confira nossa variedade de modelos.",
+    "url": "https://urbomob.com.br/banco-flow-c",
+    "images": [
+      "/images/products/bancos/banco-flow-c/foto1.png",
+      "/images/products/bancos/banco-flow-c/foto2.png",
+      "/images/products/bancos/banco-flow-c/foto3.png",
+      "/images/products/bancos/banco-flow-c/medidas.png"
+    ],
+    "bottomImage": "/images/products/bancos/banco-flow-c/embaixo.png"
+  },
+  "banco-flow-l": {
+    "slug": "banco-flow-l",
+    "name": "Banco Flow L",
+    "category": "bancos",
+    "description": "Encontre o banco perfeito para jardins, ambientes externos e internos. Feito em aço com galvanização e pintura eletrostática para maior durabilidade. Confira nossa variedade de modelos.",
+    "url": "https://urbomob.com.br/banco-flow-l",
+    "images": [
+      "/images/products/bancos/banco-flow-l/foto1.png",
+      "/images/products/bancos/banco-flow-l/foto2.png",
+      "/images/products/bancos/banco-flow-l/foto3.png",
+      "/images/products/bancos/banco-flow-l/foto4.png",
+      "/images/products/bancos/banco-flow-l/foto5.png",
+      "/images/products/bancos/banco-flow-l/medidas.png"
+    ],
+    "bottomImage": "/images/products/bancos/banco-flow-l/embaixo.png"
+  },
+  "banco-orio": {
+    "slug": "banco-orio",
+    "name": "Banco Orio",
+    "category": "bancos",
+    "description": "Encontre o banco em aço de alta resistência e durabilidade, perfurado com desenho próprio. Tenha um móvel resistente e durável para sua casa ou estabelecimento.",
+    "url": "https://urbomob.com.br/banco-orio",
+    "images": [
+      "/images/products/bancos/banco-orio/foto1.png",
+      "/images/products/bancos/banco-orio/foto2.png",
+      "/images/products/bancos/banco-orio/foto3.png",
+      "/images/products/bancos/banco-orio/foto4.png",
+      "/images/products/bancos/banco-orio/medidas.png"
+    ]
+  },
+  "banco-orio-wood": {
+    "slug": "banco-orio-wood",
+    "name": "Banco Orio Wood",
+    "category": "bancos",
+    "description": "Encontre bancos de espera em ferro com assento e encosto perfurados, resistente a chuva. Confira nosso desenho próprio e garanta qualidade e durabilidade.",
+    "url": "https://urbomob.com.br/banco-orio-wood",
+    "images": [
+      "/images/products/bancos/banco-orio-wood/foto1.png",
+      "/images/products/bancos/banco-orio-wood/foto2.png",
+      "/images/products/bancos/banco-orio-wood/foto3.png",
+      "/images/products/bancos/banco-orio-wood/medidas.png"
+    ]
+  },
+  "banco-rise": {
+    "slug": "banco-rise",
+    "name": "Banco Rise",
+    "category": "bancos",
+    "description": "Encontre o banco perfeito para áreas externas e internas, fabricado em aço com galvanização e pintura eletrostática. Alta resistência e design exclusivo para seu espaço. Encomende agora!",
+    "url": "https://urbomob.com.br/banco-rise",
+    "images": [
+      "/images/products/bancos/banco-rise/foto1.png",
+      "/images/products/bancos/banco-rise/foto2.png",
+      "/images/products/bancos/banco-rise/foto3.png",
+      "/images/products/bancos/banco-rise/foto4.png",
+      "/images/products/bancos/banco-rise/medidas.png"
+    ]
+  },
+  "banco-bloc": {
+    "slug": "banco-bloc",
+    "name": "Banco Bloc",
+    "category": "bancos",
+    "description": "Encontre o banco em aço ideal para sua necessidade, com altíssima resistência e desenho autoral. Produto galvanizado e com pintura eletrostática. Confira!",
+    "url": "https://urbomob.com.br/banco-bloc",
+    "images": [
+      "/images/products/bancos/banco-bloc/foto1.png",
+      "/images/products/bancos/banco-bloc/foto2.png",
+      "/images/products/bancos/banco-bloc/foto3.png",
+      "/images/products/bancos/banco-bloc/foto4.png",
+      "/images/products/bancos/banco-bloc/medidas.png"
+    ]
+  },
+  "banco-zen": {
+    "slug": "banco-zen",
+    "name": "Banco Zen",
+    "category": "bancos",
+    "description": "Descubra o banco em aço de alta resistência com desenho moderno e inovador. Uma opção diferente do habitual para seu espaço.",
+    "url": "https://urbomob.com.br/banco-zen",
+    "images": [
+      "/images/products/bancos/banco-zen/foto1.png",
+      "/images/products/bancos/banco-zen/foto2.png",
+      "/images/products/bancos/banco-zen/foto3.png",
+      "/images/products/bancos/banco-zen/fotos4.png",
+      "/images/products/bancos/banco-zen/medidas.png"
+    ]
+  },
+  "lixeira-nook": {
+    "slug": "lixeira-nook",
+    "name": "Lixeira Nook",
+    "category": "lixeiras",
+    "description": "Encontre a lixeira ideal para áreas externas de alta resistência. Feita em aço com galvanização e pintura eletrostática para maior durabilidade. Compre agora!",
+    "url": "https://urbomob.com.br/lixeira-nook",
+    "images": [
+      "/images/products/lixeiras/lixeira-nook/foto1.png",
+      "/images/products/lixeiras/lixeira-nook/foto2.png",
+      "/images/products/lixeiras/lixeira-nook/foto3.png",
+      "/images/products/lixeiras/lixeira-nook/foto4.png",
+      "/images/products/lixeiras/lixeira-nook/medidas.png"
+    ]
+  },
+  "lixeira-sync": {
+    "slug": "lixeira-sync",
+    "name": "Lixeira Sync",
+    "category": "lixeiras",
+    "description": "Encontre a lixeira perfeita para a sua área interna e externa, com cesto interno para acomodar resíduos. Alta durabilidade e opções de conjunto para coleta seletiva.",
+    "url": "https://urbomob.com.br/lixeira-sync",
+    "images": [
+      "/images/products/lixeiras/lixeira-sync/foto1.png",
+      "/images/products/lixeiras/lixeira-sync/foto2.png",
+      "/images/products/lixeiras/lixeira-sync/foto3.png",
+      "/images/products/lixeiras/lixeira-sync/medidas.png"
+    ]
+  },
+  "lixeira-sync-low": {
+    "slug": "lixeira-sync-low",
+    "name": "Lixeira Sync Low",
+    "category": "lixeiras",
+    "description": "Encontre a lixeira de aço de alta resistência perfeita para ambientes internos e externos, com cesto interno para acomodar os resíduos. Garanta a durabilidade e praticidade que você precisa.",
+    "url": "https://urbomob.com.br/lixeira-sync-low",
+    "images": [
+      "/images/products/lixeiras/lixeira-sync-low/foto1.png",
+      "/images/products/lixeiras/lixeira-sync-low/foto2.png",
+      "/images/products/lixeiras/lixeira-sync-low/foto3.png",
+      "/images/products/lixeiras/lixeira-sync-low/foto4.png",
+      "/images/products/lixeiras/lixeira-sync-low/medidas.png"
+    ]
+  },
+  "lixeira-serini": {
+    "slug": "lixeira-serini",
+    "name": "Lixeira Serini",
+    "category": "lixeiras",
+    "description": "Encontre a lixeira versátil em aço de alta durabilidade com cesto interno, conjunto para coleta seletiva personalizado. Ideal para diversos ambientes. Compre agora!",
+    "url": "https://urbomob.com.br/lixeira-serini",
+    "images": [
+      "/images/products/lixeiras/lixeira-serini/foto1.png",
+      "/images/products/lixeiras/lixeira-serini/foto2.png",
+      "/images/products/lixeiras/lixeira-serini/foto3.png",
+      "/images/products/lixeiras/lixeira-serini/foto4.jpg",
+      "/images/products/lixeiras/lixeira-serini/medidas.png"
+    ]
+  },
+  "lixeira-trama": {
+    "slug": "lixeira-trama",
+    "name": "Lixeira Trama",
+    "category": "lixeiras",
+    "description": "Encontre aqui a lixeira em aço de alta durabilidade perfeita para ruas, praças e condomínios. Resistente a vandalismo e ideal para ambientes externos.",
+    "url": "https://urbomob.com.br/lixeira-trama",
+    "images": [
+      "/images/products/lixeiras/lixeira-trama/foto1.png",
+      "/images/products/lixeiras/lixeira-trama/foto2.png",
+      "/images/products/lixeiras/lixeira-trama/foto3.png",
+      "/images/products/lixeiras/lixeira-trama/foto4.png",
+      "/images/products/lixeiras/lixeira-trama/medidas.png"
+    ]
+  },
+  "lixeira-versa": {
+    "slug": "lixeira-versa",
+    "name": "Lixeira Versa",
+    "category": "lixeiras",
+    "description": "Encontre lixeiras para ruas, praças e condomínios, resistente ao tempo, feitas em aço e com tampa de proteção. Garanta a limpeza e organização do seu espaço público.",
+    "url": "https://urbomob.com.br/lixeira-versa",
+    "images": [
+      "/images/products/lixeiras/lixeira-versa/foto1.png",
+      "/images/products/lixeiras/lixeira-versa/foto2.png",
+      "/images/products/lixeiras/lixeira-versa/foto3.png",
+      "/images/products/lixeiras/lixeira-versa/foto4.png",
+      "/images/products/lixeiras/lixeira-versa/medidas.png"
+    ]
+  },
+  "lixeira-radi": {
+    "slug": "lixeira-radi",
+    "name": "Lixeira Radi",
+    "category": "lixeiras",
+    "description": "Encontre lixeiras individuais ou para coleta seletiva para área externa com galvanização e pintura eletrostática de alta qualidade. Garanta a organização e sustentabilidade do seu espaço.",
+    "url": "https://urbomob.com.br/lixeira-radi",
+    "images": [
+      "/images/products/lixeiras/lixeira-radi/foto1.png",
+      "/images/products/lixeiras/lixeira-radi/foto2.png",
+      "/images/products/lixeiras/lixeira-radi/foto3.png",
+      "/images/products/lixeiras/lixeira-radi/foto4.png",
+      "/images/products/lixeiras/lixeira-radi/medidas.png"
+    ]
+  },
+  "mesa-orio": {
+    "slug": "mesa-orio",
+    "name": "Mesa Orio",
+    "category": "mesas",
+    "description": "Encontre o conjunto de mesa perfeito para seu jardim ou área externa. Feito para suportar grandes fluxos de pessoas. Confira agora!",
+    "url": "https://urbomob.com.br/mesa-orio",
+    "images": [
+      "/images/products/mesas/mesa-orio/foto1.png",
+      "/images/products/mesas/mesa-orio/foto2.png",
+      "/images/products/mesas/mesa-orio/foto3.png",
+      "/images/products/mesas/mesa-orio/foto4.png",
+      "/images/products/mesas/mesa-orio/medidas.png"
+    ]
+  },
+  "mesa-quest": {
+    "slug": "mesa-quest",
+    "name": "Mesa Quest",
+    "category": "mesas",
+    "description": "Conheça nossa mesa em aço com chapa perfurada, de altíssima resistência. Ideal para ficar exposta ao tempo, possui um desenho exclusivo.",
+    "url": "https://urbomob.com.br/mesa-quest",
+    "images": [
+      "/images/products/mesas/mesa-quest/foto1.png",
+      "/images/products/mesas/mesa-quest/foto2.png",
+      "/images/products/mesas/mesa-quest/foto3.png",
+      "/images/products/mesas/mesa-quest/foto4.png",
+      "/images/products/mesas/mesa-quest/medidas.png"
+    ]
+  },
+  "paraciclo-beam": {
+    "slug": "paraciclo-beam",
+    "name": "Paraciclo Beam",
+    "category": "paraciclos",
+    "description": "Encontre lixeiras individuais ou para coleta seletiva para área externa com galvanização e pintura eletrostática de alta qualidade. Garanta a organização e sustentabilidade do seu espaço.",
+    "url": "https://urbomob.com.br/paraciclo-beam",
+    "images": [
+      "/images/products/paraciclos/paraciclo-beam/foto1.png",
+      "/images/products/paraciclos/paraciclo-beam/foto2.png",
+      "/images/products/paraciclos/paraciclo-beam/medidas.png"
+    ]
+  },
+  "paraciclo-plex": {
+    "slug": "paraciclo-plex",
+    "name": "Paraciclo Plex",
+    "category": "paraciclos",
+    "description": "Encontre lixeiras individuais ou para coleta seletiva para área externa com galvanização e pintura eletrostática de alta qualidade. Garanta a organização e sustentabilidade do seu espaço.",
+    "url": "https://urbomob.com.br/paraciclo-plex",
+    "images": [
+      "/images/products/paraciclos/paraciclo-plex/foto1.png",
+      "/images/products/paraciclos/paraciclo-plex/foto2.png",
+      "/images/products/paraciclos/paraciclo-plex/medidas.png"
+    ]
+  },
+  "paraciclo-pod": {
+    "slug": "paraciclo-pod",
+    "name": "Paraciclo Pod",
+    "category": "paraciclos",
+    "description": "Encontre lixeiras individuais ou para coleta seletiva para área externa com galvanização e pintura eletrostática de alta qualidade. Garanta a organização e sustentabilidade do seu espaço.",
+    "url": "https://urbomob.com.br/paraciclo-pod",
+    "images": [
+      "/images/products/paraciclos/paraciclo-pod/foto1.png",
+      "/images/products/paraciclos/paraciclo-pod/foto2.png",
+      "/images/products/paraciclos/paraciclo-pod/meidas.png"
+    ]
+  }
+}
