@@ -5,7 +5,6 @@ import { Hero } from '../components/sections/Hero';
 import { Presentation } from '../components/sections/Presentation';
 import { Products } from '../components/sections/Products';
 import { Differentials } from '../components/sections/Differentials';
-import { Projects } from '../components/sections/Projects';
 import { CTA } from '../components/sections/CTA';
 
 export const HomePage: React.FC = () => {
@@ -17,7 +16,6 @@ export const HomePage: React.FC = () => {
         <Presentation />
         <Products />
         <Differentials />
-        <Projects />
         <CTA />
       </main>
       <Footer />
