@@ -1,0 +1,430 @@
+{
+  "banco-quest-wood": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Madeira Jatobá, Tamarindo",
+      "color": "#85420A"
+    },
+    {
+      "material": "Decking Oil (3 demãos)",
+      "color": "#85420A"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#737271"
+    }
+  ],
+  "banco-quest": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E28338"
+    }
+  ],
+  "banco-quest-low": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#6E6E6E"
+    }
+  ],
+  "banco-nexo-wood": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Madeira Jatobá, Tamarindo",
+      "color": "#85420A"
+    },
+    {
+      "material": "Decking Oil (3 demãos)",
+      "color": "#85420A"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#737271"
+    }
+  ],
+  "banco-nexo": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E28338"
+    }
+  ],
+  "banco-nexo-low": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Madeira Jatobá, Tamarindo",
+      "color": "#85420A"
+    },
+    {
+      "material": "Decking Oil (3 demãos)",
+      "color": "#85420A"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#737271"
+    }
+  ],
+  "banco-flow-r": [
+    {
+      "material": "Aço carbono",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Madeira Jatobá, Tamarindo",
+      "color": "#85420A"
+    },
+    {
+      "material": "Decking Oil (3 demãos)",
+      "color": "#85420A"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#737271"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#06AB3D"
+    }
+  ],
+  "banco-flow-c": [
+    {
+      "material": "Aço carbono",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Madeira Jatobá, Tamarindo",
+      "color": "#85420A"
+    },
+    {
+      "material": "Decking Oil (3 demãos)",
+      "color": "#85420A"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#737271"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#06AB3D"
+    }
+  ],
+  "banco-flow-l": [
+    {
+      "material": "Aço carbono",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Madeira Jatobá, Tamarindo",
+      "color": "#85420A"
+    },
+    {
+      "material": "Decking Oil (3 demãos)",
+      "color": "#85420A"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#737271"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#06AB3D"
+    }
+  ],
+  "banco-orio": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#454CDB"
+    }
+  ],
+  "banco-orio-wood": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Madeira Jatobá, Tamarindo",
+      "color": "#85420A"
+    },
+    {
+      "material": "Decking Oil (3 demãos)",
+      "color": "#85420A"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#737271"
+    }
+  ],
+  "banco-rise": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E6DB04"
+    }
+  ],
+  "banco-bloc": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E28338"
+    }
+  ],
+  "banco-zen": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#676769"
+    }
+  ],
+  "lixeira-nook": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E33939"
+    }
+  ],
+  "lixeira-sync": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#575757"
+    }
+  ],
+  "lixeira-sync-low": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#575757"
+    }
+  ],
+  "lixeira-serini": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E3DB39"
+    }
+  ],
+  "lixeira-trama": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#3D7A3E"
+    }
+  ],
+  "lixeira-versa": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E3DB39"
+    }
+  ],
+  "lixeira-radi": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E33939"
+    }
+  ],
+  "mesa-orio": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#696867"
+    }
+  ],
+  "mesa-quest": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#FC7B17"
+    }
+  ],
+  "paraciclo-beam": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Madeira Jatobá, Tamarindo",
+      "color": "#B8602E"
+    },
+    {
+      "material": "Decking Oil (3 demãos)",
+      "color": "#B8602E"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#403F3F"
+    }
+  ],
+  "paraciclo-plex": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#403F3F"
+    }
+  ],
+  "paraciclo-pod": [
+    {
+      "material": "Aço carbono",
+      "color": "#D9DFE5"
+    },
+    {
+      "material": "Galvanização",
+      "color": "#C2C8CF"
+    },
+    {
+      "material": "Pintura eletrostática",
+      "color": "#E6654E"
+    }
+  ]
+}

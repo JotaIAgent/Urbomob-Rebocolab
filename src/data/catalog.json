@@ -15,13 +15,28 @@
       "assentos": "2 e 3",
       "tamanhos": "100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" },
-        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        },
+        {
+          "nome": "Madeira Jatobá, Tamarindo",
+          "cor": "#85420A"
+        }
       ],
       "acabamentos": [
-        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Decking Oil (3 demãos)",
+          "cor": "#85420A"
+        },
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#737271"
+        }
       ]
     }
   },
@@ -42,11 +57,20 @@
       "assentos": "2 e 3",
       "tamanhos": "100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E28338"
+        }
       ]
     }
   },
@@ -67,11 +91,20 @@
       "assentos": "1, 2 e 3",
       "tamanhos": "50 cm, 100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#6E6E6E"
+        }
       ]
     }
   },
@@ -92,13 +125,28 @@
       "assentos": "2 e 3",
       "tamanhos": "120 cm e 180 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" },
-        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        },
+        {
+          "nome": "Madeira Jatobá, Tamarindo",
+          "cor": "#85420A"
+        }
       ],
       "acabamentos": [
-        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Decking Oil (3 demãos)",
+          "cor": "#85420A"
+        },
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#737271"
+        }
       ]
     }
   },
@@ -118,11 +166,20 @@
       "assentos": "2 e 3",
       "tamanhos": "120 cm e 180 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E28338"
+        }
       ]
     }
   },
@@ -142,13 +199,28 @@
       "assentos": "2 e 3",
       "tamanhos": "120 cm e 180 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" },
-        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        },
+        {
+          "nome": "Madeira Jatobá, Tamarindo",
+          "cor": "#85420A"
+        }
       ],
       "acabamentos": [
-        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Decking Oil (3 demãos)",
+          "cor": "#85420A"
+        },
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#737271"
+        }
       ]
     }
   },
@@ -170,13 +242,28 @@
       "assentos": "2 e 3",
       "tamanhos": "100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" },
-        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Madeira Jatobá, Tamarindo",
+          "cor": "#85420A"
+        }
       ],
       "acabamentos": [
-        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Decking Oil (3 demãos)",
+          "cor": "#85420A"
+        },
+        {
+          "nome": "Galvanização",
+          "cor": "#737271"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#06AB3D"
+        }
       ]
     }
   },
@@ -197,13 +284,28 @@
       "assentos": "3",
       "tamanhos": "190 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" },
-        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Madeira Jatobá, Tamarindo",
+          "cor": "#85420A"
+        }
       ],
       "acabamentos": [
-        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Decking Oil (3 demãos)",
+          "cor": "#85420A"
+        },
+        {
+          "nome": "Galvanização",
+          "cor": "#737271"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#06AB3D"
+        }
       ]
     }
   },
@@ -226,13 +328,28 @@
       "assentos": "2 e 3",
       "tamanhos": "100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" },
-        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Madeira Jatobá, Tamarindo",
+          "cor": "#85420A"
+        }
       ],
       "acabamentos": [
-        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Decking Oil (3 demãos)",
+          "cor": "#85420A"
+        },
+        {
+          "nome": "Galvanização",
+          "cor": "#737271"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#06AB3D"
+        }
       ]
     }
   },
@@ -253,11 +370,20 @@
       "assentos": "2 e 3",
       "tamanhos": "111 cm e 161 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#454CDB"
+        }
       ]
     }
   },
@@ -277,13 +403,28 @@
       "assentos": "2 e 3",
       "tamanhos": "115 cm e 175 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" },
-        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        },
+        {
+          "nome": "Madeira Jatobá, Tamarindo",
+          "cor": "#85420A"
+        }
       ],
       "acabamentos": [
-        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Decking Oil (3 demãos)",
+          "cor": "#85420A"
+        },
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#737271"
+        }
       ]
     }
   },
@@ -304,11 +445,20 @@
       "assentos": "1, 2 e 3",
       "tamanhos": "50 cm, 100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E6DB04"
+        }
       ]
     }
   },
@@ -329,11 +479,20 @@
       "assentos": "2 e 3",
       "tamanhos": "100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E28338"
+        }
       ]
     }
   },
@@ -354,11 +513,20 @@
       "assentos": "2 e 3",
       "tamanhos": "100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#676769"
+        }
       ]
     }
   },
@@ -379,11 +547,20 @@
       "capacidade": "80 L",
       "tamanhos": "90 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E33939"
+        }
       ]
     }
   },
@@ -403,11 +580,20 @@
       "capacidade": "50 L",
       "tamanhos": "100 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#575757"
+        }
       ]
     }
   },
@@ -428,11 +614,20 @@
       "capacidade": "50 L",
       "tamanhos": "74 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#575757"
+        }
       ]
     }
   },
@@ -453,11 +648,20 @@
       "capacidade": "60 L",
       "tamanhos": "106 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E3DB39"
+        }
       ]
     }
   },
@@ -478,11 +682,20 @@
       "capacidade": "70 L",
       "tamanhos": "81 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#3D7A3E"
+        }
       ]
     }
   },
@@ -503,11 +716,20 @@
       "capacidade": "60 L",
       "tamanhos": "101 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E3DB39"
+        }
       ]
     }
   },
@@ -528,11 +750,20 @@
       "capacidade": "70 L",
       "tamanhos": "79 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E33939"
+        }
       ]
     }
   },
@@ -553,11 +784,20 @@
       "assentos": "4 e 6 pessoas",
       "tamanhos": "111 cm e 161 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#696867"
+        }
       ]
     }
   },
@@ -578,11 +818,20 @@
       "assentos": "4 e 6 pessoas",
       "tamanhos": "100 cm e 150 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#FC7B17"
+        }
       ]
     }
   },
@@ -600,13 +849,28 @@
     "specs": {
       "tamanhos": "88 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" },
-        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        },
+        {
+          "nome": "Madeira Jatobá, Tamarindo",
+          "cor": "#B8602E"
+        }
       ],
       "acabamentos": [
-        { "nome": "Decking Oil", "cor": "#3E2723" },
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Decking Oil",
+          "cor": "#85420A"
+        },
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#403F3F"
+        }
       ]
     }
   },
@@ -624,11 +888,20 @@
     "specs": {
       "tamanhos": "78 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#403F3F"
+        }
       ]
     }
   },
@@ -646,11 +919,20 @@
     "specs": {
       "tamanhos": "80 cm",
       "materiais": [
-        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+        {
+          "nome": "Aço carbono",
+          "cor": "#D9DFE5"
+        }
       ],
       "acabamentos": [
-        { "nome": "Galvanização", "cor": "#B0C4DE" },
-        { "nome": "Pintura eletrostática", "cor": "#696969" }
+        {
+          "nome": "Galvanização",
+          "cor": "#C2C8CF"
+        },
+        {
+          "nome": "Pintura eletrostática",
+          "cor": "#E6654E"
+        }
       ]
     }
   }
