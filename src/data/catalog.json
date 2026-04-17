@@ -10,7 +10,20 @@
       "/images/products/bancos/banco-quest-wood/foto2.png",
       "/images/products/bancos/banco-quest-wood/foto3.png",
       "/images/products/bancos/banco-quest-wood/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" },
+        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+      ],
+      "acabamentos": [
+        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-quest": {
     "slug": "banco-quest",
@@ -24,7 +37,18 @@
       "/images/products/bancos/banco-quest/foto3.png",
       "/images/products/bancos/banco-quest/foto4.jpg",
       "/images/products/bancos/banco-quest/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-quest-low": {
     "slug": "banco-quest-low",
@@ -38,7 +62,18 @@
       "/images/products/bancos/banco-quest-low/foto3.png",
       "/images/products/bancos/banco-quest-low/foto4.png",
       "/images/products/bancos/banco-quest-low/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "1, 2 e 3",
+      "tamanhos": "50 cm, 100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-nexo-wood": {
     "slug": "banco-nexo-wood",
@@ -52,7 +87,20 @@
       "/images/products/bancos/banco-nexo-wood/foto3.png",
       "/images/products/bancos/banco-nexo-wood/foto4.png",
       "/images/products/bancos/banco-nexo-wood/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "120 cm e 180 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" },
+        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+      ],
+      "acabamentos": [
+        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-nexo": {
     "slug": "banco-nexo",
@@ -65,7 +113,18 @@
       "/images/products/bancos/banco-nexo/foto2.png",
       "/images/products/bancos/banco-nexo/foto3.png",
       "/images/products/bancos/banco-nexo/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "120 cm e 180 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-nexo-low": {
     "slug": "banco-nexo-low",
@@ -78,7 +137,20 @@
       "/images/products/bancos/banco-nexo-low/foto2.png",
       "/images/products/bancos/banco-nexo-low/foto3.png",
       "/images/products/bancos/banco-nexo-low/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "120 cm e 180 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" },
+        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+      ],
+      "acabamentos": [
+        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-flow-r": {
     "slug": "banco-flow-r",
@@ -93,7 +165,20 @@
       "/images/products/bancos/banco-flow-r/foto4.png",
       "/images/products/bancos/banco-flow-r/medidas.png"
     ],
-    "bottomImage": "/images/products/bancos/banco-flow-r/embaixo.png"
+    "bottomImage": "/images/products/bancos/banco-flow-r/embaixo.png",
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" },
+        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+      ],
+      "acabamentos": [
+        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-flow-c": {
     "slug": "banco-flow-c",
@@ -107,7 +192,20 @@
       "/images/products/bancos/banco-flow-c/foto3.png",
       "/images/products/bancos/banco-flow-c/medidas.png"
     ],
-    "bottomImage": "/images/products/bancos/banco-flow-c/embaixo.png"
+    "bottomImage": "/images/products/bancos/banco-flow-c/embaixo.png",
+    "specs": {
+      "assentos": "3",
+      "tamanhos": "190 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" },
+        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+      ],
+      "acabamentos": [
+        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-flow-l": {
     "slug": "banco-flow-l",
@@ -123,7 +221,20 @@
       "/images/products/bancos/banco-flow-l/foto5.png",
       "/images/products/bancos/banco-flow-l/medidas.png"
     ],
-    "bottomImage": "/images/products/bancos/banco-flow-l/embaixo.png"
+    "bottomImage": "/images/products/bancos/banco-flow-l/embaixo.png",
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" },
+        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+      ],
+      "acabamentos": [
+        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-orio": {
     "slug": "banco-orio",
@@ -137,7 +248,18 @@
       "/images/products/bancos/banco-orio/foto3.png",
       "/images/products/bancos/banco-orio/foto4.png",
       "/images/products/bancos/banco-orio/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "111 cm e 161 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-orio-wood": {
     "slug": "banco-orio-wood",
@@ -150,7 +272,20 @@
       "/images/products/bancos/banco-orio-wood/foto2.png",
       "/images/products/bancos/banco-orio-wood/foto3.png",
       "/images/products/bancos/banco-orio-wood/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "115 cm e 175 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" },
+        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+      ],
+      "acabamentos": [
+        { "nome": "Decking Oil (3 demãos)", "cor": "#3E2723" },
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-rise": {
     "slug": "banco-rise",
@@ -164,7 +299,18 @@
       "/images/products/bancos/banco-rise/foto3.png",
       "/images/products/bancos/banco-rise/foto4.png",
       "/images/products/bancos/banco-rise/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "1, 2 e 3",
+      "tamanhos": "50 cm, 100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-bloc": {
     "slug": "banco-bloc",
@@ -178,7 +324,18 @@
       "/images/products/bancos/banco-bloc/foto3.png",
       "/images/products/bancos/banco-bloc/foto4.png",
       "/images/products/bancos/banco-bloc/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "banco-zen": {
     "slug": "banco-zen",
@@ -192,7 +349,18 @@
       "/images/products/bancos/banco-zen/foto3.png",
       "/images/products/bancos/banco-zen/fotos4.png",
       "/images/products/bancos/banco-zen/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "2 e 3",
+      "tamanhos": "100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "lixeira-nook": {
     "slug": "lixeira-nook",
@@ -206,7 +374,18 @@
       "/images/products/lixeiras/lixeira-nook/foto3.png",
       "/images/products/lixeiras/lixeira-nook/foto4.png",
       "/images/products/lixeiras/lixeira-nook/medidas.png"
-    ]
+    ],
+    "specs": {
+      "capacidade": "80 L",
+      "tamanhos": "90 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "lixeira-sync": {
     "slug": "lixeira-sync",
@@ -219,7 +398,18 @@
       "/images/products/lixeiras/lixeira-sync/foto2.png",
       "/images/products/lixeiras/lixeira-sync/foto3.png",
       "/images/products/lixeiras/lixeira-sync/medidas.png"
-    ]
+    ],
+    "specs": {
+      "capacidade": "50 L",
+      "tamanhos": "100 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "lixeira-sync-low": {
     "slug": "lixeira-sync-low",
@@ -233,7 +423,18 @@
       "/images/products/lixeiras/lixeira-sync-low/foto3.png",
       "/images/products/lixeiras/lixeira-sync-low/foto4.png",
       "/images/products/lixeiras/lixeira-sync-low/medidas.png"
-    ]
+    ],
+    "specs": {
+      "capacidade": "50 L",
+      "tamanhos": "74 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "lixeira-serini": {
     "slug": "lixeira-serini",
@@ -247,7 +448,18 @@
       "/images/products/lixeiras/lixeira-serini/foto3.png",
       "/images/products/lixeiras/lixeira-serini/foto4.jpg",
       "/images/products/lixeiras/lixeira-serini/medidas.png"
-    ]
+    ],
+    "specs": {
+      "capacidade": "60 L",
+      "tamanhos": "106 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "lixeira-trama": {
     "slug": "lixeira-trama",
@@ -261,7 +473,18 @@
       "/images/products/lixeiras/lixeira-trama/foto3.png",
       "/images/products/lixeiras/lixeira-trama/foto4.png",
       "/images/products/lixeiras/lixeira-trama/medidas.png"
-    ]
+    ],
+    "specs": {
+      "capacidade": "70 L",
+      "tamanhos": "81 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "lixeira-versa": {
     "slug": "lixeira-versa",
@@ -275,7 +498,18 @@
       "/images/products/lixeiras/lixeira-versa/foto3.png",
       "/images/products/lixeiras/lixeira-versa/foto4.png",
       "/images/products/lixeiras/lixeira-versa/medidas.png"
-    ]
+    ],
+    "specs": {
+      "capacidade": "60 L",
+      "tamanhos": "101 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "lixeira-radi": {
     "slug": "lixeira-radi",
@@ -289,7 +523,18 @@
       "/images/products/lixeiras/lixeira-radi/foto3.png",
       "/images/products/lixeiras/lixeira-radi/foto4.png",
       "/images/products/lixeiras/lixeira-radi/medidas.png"
-    ]
+    ],
+    "specs": {
+      "capacidade": "70 L",
+      "tamanhos": "79 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "mesa-orio": {
     "slug": "mesa-orio",
@@ -303,7 +548,18 @@
       "/images/products/mesas/mesa-orio/foto3.png",
       "/images/products/mesas/mesa-orio/foto4.png",
       "/images/products/mesas/mesa-orio/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "4 e 6 pessoas",
+      "tamanhos": "111 cm e 161 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "mesa-quest": {
     "slug": "mesa-quest",
@@ -317,7 +573,18 @@
       "/images/products/mesas/mesa-quest/foto3.png",
       "/images/products/mesas/mesa-quest/foto4.png",
       "/images/products/mesas/mesa-quest/medidas.png"
-    ]
+    ],
+    "specs": {
+      "assentos": "4 e 6 pessoas",
+      "tamanhos": "100 cm e 150 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "paraciclo-beam": {
     "slug": "paraciclo-beam",
@@ -329,7 +596,19 @@
       "/images/products/paraciclos/paraciclo-beam/foto1.png",
       "/images/products/paraciclos/paraciclo-beam/foto2.png",
       "/images/products/paraciclos/paraciclo-beam/medidas.png"
-    ]
+    ],
+    "specs": {
+      "tamanhos": "88 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" },
+        { "nome": "Madeira Jatobá, Tamarindo", "cor": "#8B4513" }
+      ],
+      "acabamentos": [
+        { "nome": "Decking Oil", "cor": "#3E2723" },
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "paraciclo-plex": {
     "slug": "paraciclo-plex",
@@ -341,7 +620,17 @@
       "/images/products/paraciclos/paraciclo-plex/foto1.png",
       "/images/products/paraciclos/paraciclo-plex/foto2.png",
       "/images/products/paraciclos/paraciclo-plex/medidas.png"
-    ]
+    ],
+    "specs": {
+      "tamanhos": "78 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   },
   "paraciclo-pod": {
     "slug": "paraciclo-pod",
@@ -353,6 +642,16 @@
       "/images/products/paraciclos/paraciclo-pod/foto1.png",
       "/images/products/paraciclos/paraciclo-pod/foto2.png",
       "/images/products/paraciclos/paraciclo-pod/meidas.png"
-    ]
+    ],
+    "specs": {
+      "tamanhos": "80 cm",
+      "materiais": [
+        { "nome": "Aço carbono", "cor": "#B4C7D1" }
+      ],
+      "acabamentos": [
+        { "nome": "Galvanização", "cor": "#B0C4DE" },
+        { "nome": "Pintura eletrostática", "cor": "#696969" }
+      ]
+    }
   }
 }

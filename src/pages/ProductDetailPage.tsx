@@ -7,6 +7,19 @@ import { Footer } from '../components/layout/Footer';
 import catalogData from '../data/catalog.json';
 
 // ── Types ──────────────────────────────────────────────
+interface SpecItem {
+  nome: string;
+  cor: string;
+}
+
+interface ProductSpecs {
+  assentos?: string;
+  tamanhos?: string;
+  capacidade?: string;
+  materiais: SpecItem[];
+  acabamentos: SpecItem[];
+}
+
 interface Product {
   slug: string;
   name: string;
@@ -15,6 +28,7 @@ interface Product {
   url: string;
   images: string[];
   bottomImage?: string;
+  specs: ProductSpecs;
 }
 
 const catalog = catalogData as Record<string, Product>;
@@ -91,28 +105,6 @@ export const ProductDetailPage: React.FC = () => {
       </div>
     );
   }
-
-  const getProductSpecs = (p: typeof product) => {
-    let materiais = ['Aço carbono'];
-    let acabamentos = ['Galvanização', 'Pintura eletrostática'];
-
-    if (p.category === 'bancos') {
-       if (p.slug.includes('-wood')) {
-          materiais.push('Madeira tratada (Jatobá/Tamarindo)');
-          acabamentos.push('Decking Oil (3 demãos)');
-       }
-    } else if (p.category === 'lixeiras') {
-       materiais.push('Cesto interno removível em alumínio ou inox');
-    } else if (p.category === 'mesas') {
-       materiais.push('Chapa perfurada');
-    } else if (p.category === 'paraciclos') {
-       materiais.push('Perfil estrutural em aço');
-    }
-    
-    return { materiais, acabamentos };
-  };
-
-  const materials = getProductSpecs(product);
   const { type: productType, model: productModel } = parseSlug(product.slug);
   const categoryLabel = CATEGORY_LABELS[product.category] || product.category;
 
@@ -240,32 +232,65 @@ export const ProductDetailPage: React.FC = () => {
               {/* Esquerda: Especificações Estritas */}
               <div className="lg:col-span-4 flex flex-col gap-10">
                 <div>
-                  <h3 className="text-2xl font-display font-black text-textPrimary uppercase mb-6">Especificações</h3>
+                  <h3 className="text-2xl font-display font-black text-textPrimary uppercase mb-6">Detalhes</h3>
                   <div className="w-8 h-1 bg-[#F15A24] mb-8"></div>
                 </div>
 
                 <div className="flex flex-col gap-8">
+                  {/* N° Assentos ou Capacidade */}
+                  {product.specs.assentos && (
+                    <div>
+                      <h4 className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-2">N° Assentos</h4>
+                      <p className="text-base text-textPrimary font-semibold">{product.specs.assentos}</p>
+                    </div>
+                  )}
+                  {product.specs.capacidade && (
+                    <div>
+                      <h4 className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-2">Capacidade</h4>
+                      <p className="text-base text-textPrimary font-semibold">{product.specs.capacidade}</p>
+                    </div>
+                  )}
+
+                  {/* Tamanhos */}
+                  {product.specs.tamanhos && (
+                    <div>
+                      <h4 className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-2">Tamanhos</h4>
+                      <p className="text-base text-textPrimary font-semibold">{product.specs.tamanhos}</p>
+                    </div>
+                  )}
+
+                  {/* Materiais com bolinhas de cor */}
                   <div>
-                    <h4 className="text-xs font-bold uppercase tracking-widest text-gray-500 mb-3">Materiais</h4>
-                    <ul className="flex flex-col gap-2">
-                      {materials.materiais.map((m) => (
-                        <li key={m} className="text-base text-textPrimary font-medium">{m}</li>
+                    <h4 className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-3">Materiais</h4>
+                    <ul className="flex flex-col gap-3">
+                      {product.specs.materiais.map((m) => (
+                        <li key={m.nome} className="flex items-center gap-3">
+                          <span
+                            className="w-4 h-4 rounded-full flex-shrink-0 border border-black/10"
+                            style={{ backgroundColor: m.cor }}
+                            aria-hidden="true"
+                          />
+                          <span className="text-base text-textPrimary font-semibold">{m.nome}</span>
+                        </li>
                       ))}
                     </ul>
                   </div>
 
+                  {/* Acabamentos com bolinhas de cor */}
                   <div>
-                    <h4 className="text-xs font-bold uppercase tracking-widest text-gray-500 mb-3">Acabamentos</h4>
-                    <ul className="flex flex-col gap-2">
-                      {materials.acabamentos.map((a) => (
-                        <li key={a} className="text-base text-textPrimary font-medium">{a}</li>
+                    <h4 className="text-xs font-bold uppercase tracking-widest text-gray-400 mb-3">Acabamentos</h4>
+                    <ul className="flex flex-col gap-3">
+                      {product.specs.acabamentos.map((a) => (
+                        <li key={a.nome} className="flex items-center gap-3">
+                          <span
+                            className="w-4 h-4 rounded-full flex-shrink-0 border border-black/10"
+                            style={{ backgroundColor: a.cor }}
+                            aria-hidden="true"
+                          />
+                          <span className="text-base text-textPrimary font-semibold">{a.nome}</span>
+                        </li>
                       ))}
                     </ul>
-                  </div>
-
-                  <div>
-                    <h4 className="text-xs font-bold uppercase tracking-widest text-gray-500 mb-3">Dimensões</h4>
-                    <p className="text-base text-textPrimary font-medium">As dimensões precisas e volumes podem ser solicitadas via atendimento técnico para adequação ao projeto.</p>
                   </div>
                 </div>
               </div>
